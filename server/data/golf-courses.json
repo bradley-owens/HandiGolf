@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Cape Wickham Links",
+    "location": "King Island, Tasmania",
+    "greenFees": 225
+  },
+  {
+    "name": "Barnbougle - Dunes course",
+    "location": "Bridport, Tasmania",
+    "greenFees": 139
+  },
+  {
+    "name": "Barnbougle - Lost Farm course",
+    "location": "Bridport, Tasmania",
+    "greenFees": 139
+  },
+  {
+    "name": "St Andrews Beach Golf Course",
+    "location": "Fingal, Victoria",
+    "greenFees": 105
+  },
+  {
+    "name": "Ocean Dunes",
+    "location": "King Island, Tasmania",
+    "greenFees": 205
+  },
+  {
+    "name": "Thirteenth Beach - Beach Courses",
+    "location": "Barwon Heads, Victoria",
+    "greenFees": 135
+  },
+  {
+    "name": "The Dunes",
+    "location": "Rye, Victoria",
+    "greenFees": 105
+  },
+  {
+    "name": "Lonsdale Links",
+    "location": "Point Lonsdale, Victoria",
+    "greenFees": 95
+  },
+  {
+    "name": "Port Fairy Golf Links",
+    "location": "Port Fairy, Victoria",
+    "greenFees": 69
+  },
+  {
+    "name": "Brookwater Golf & Country Club",
+    "location": " Brookwater, Queensland",
+    "greenFees": 135
+  }
+]

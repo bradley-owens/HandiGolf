@@ -1,17 +1,30 @@
+const mongoose = require("mongoose");
 const express = require("express");
 const dotenv = require("dotenv");
 
 dotenv.config({ path: "./config.env" });
 
 const app = require("./app");
+const coursesRouter = require("./routes/coursesRouter");
 
-/// DUMMY API DATA
+////////// DB CONNECTION -----------
 
-app.get("/api", (req, res) => {
-  res.json({
-    users: ["u1", "u2", "u3"],
+const DB = process.env.DATABASE.replace(
+  "<PASSWORD>",
+  process.env.DATABASE_PASSWORD
+);
+
+mongoose
+  .connect(DB, {
+    useNewUrlParser: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+    useUnifiedTopology: true,
+  })
+  .then(() => {
+    console.log("DB Connection Successful!!");
   });
-});
+
 ////////// SERVER -----------
 
 const port = process.env.port || 5500;

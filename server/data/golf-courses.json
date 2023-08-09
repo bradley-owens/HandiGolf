@@ -2,51 +2,72 @@
   {
     "name": "Cape Wickham Links",
     "location": "King Island, Tasmania",
-    "greenFees": 225
+    "greenFees": 225,
+    "slopeRating": 137,
+    "description": "Designed by Darius Oliver and Mike DeVries, with views of Bass Strait on every hole. The land is gently undulating and interspersed with giant sand dunes and ridges. The layout is made up of three basic loops, holes 1 & 5 on the Cape Farewell headland, holes 6 & 13 in dune land to the south of Cape Farewell, holes 14 & 18 in the Lighthouse/Victoria Cove zone. Soft spikes required. Bookings essential. Ranked #24 in the World (Golf Digest USA) and #1 in Australia (2022 Golf Course Guide). Accommodation consists of 16 twin share suites, from $225 per night based on season & availability, includes a continental breakfast. Guests receive unlimited golf access $225 per day."
   },
   {
     "name": "Barnbougle - Dunes course",
     "location": "Bridport, Tasmania",
-    "greenFees": 139
+    "greenFees": 139,
+    "slopeRating": 132,
+    "description": "Barnbougle Dunes winds through towering coastal dunes along one of Tasmania's pristine beaches presenting golfers with a true sea-side links experience. Designed by Doak and Clayton the course is ranked #11 course in the World by U.S Golf Digest. Opening in December 2012, sister course the Lost Farm has also received global acclaim. Designed by renowned course architects Coore and Crenshaw, elevated to #23 in the 2015 World rankings. Both layouts have dramatic and undulating fairways in a beautiful and exhilarating coastal setting. A rich tapestry of native flora and fauna include local birdlife and resident wallabies. Bougle Rin is the new 14-hole short course set atop dramatic sand dunes, designed by Bill Coore. Soft spikes only. Bookings essential."
   },
   {
     "name": "Barnbougle - Lost Farm course",
     "location": "Bridport, Tasmania",
-    "greenFees": 139
+    "greenFees": 139,
+    "slopeRating": 124,
+    "description": "Barnbougle Dunes winds through towering coastal dunes along one of Tasmania's pristine beaches presenting golfers with a true sea-side links experience. Designed by Doak and Clayton the course is ranked #11 course in the World by U.S Golf Digest. Opening in December 2012, sister course the Lost Farm has also received global acclaim. Designed by renowned course architects Coore and Crenshaw, elevated to #23 in the 2015 World rankings. Both layouts have dramatic and undulating fairways in a beautiful and exhilarating coastal setting. A rich tapestry of native flora and fauna include local birdlife and resident wallabies. Bougle Rin is the new 14-hole short course set atop dramatic sand dunes, designed by Bill Coore. Soft spikes only. Bookings essential."
   },
   {
     "name": "St Andrews Beach Golf Course",
     "location": "Fingal, Victoria",
-    "greenFees": 105
+    "greenFees": 105,
+    "slopeRating": 139,
+    "description": "One of the premier 'pay to play' courses in Australia. Located in the famous Cups region on the Mornington Peninsula and designed by internationally renowned architect Tom Doak (also the designer of Barnbougle Dunes and Cape Kidnappers), the course offers many challenges to the serious golfer whilst still being thoroughly enjoyable for the social player. The excellent presentation and design of the course is reflected by its Golf Course Guide ranking of 8 in Australia, so take the opportunity to experience this brilliantly designed course with dramatic views and natural hazards. Daily competitions open to all golfers with official handicaps. Visitors welcome 7 days a week. Self-contained accommodation available."
   },
   {
     "name": "Ocean Dunes",
     "location": "King Island, Tasmania",
-    "greenFees": 205
+    "greenFees": 205,
+    "slopeRating": 132,
+    "description": "Rolling dunes and unsurpassed views along 2km of coastal frontage. Six holes adjacent to Southern Ocean with signature 4th and 10th par 3's heroic one shot holes playing over the surging water. Multiple tee blocks for players of all standards, smooth firm bent grass greens and fine fescue tees and fairways. Course features coastal Marram and Rushes, wildlife includes wallabies, peacocks, sea eagles and black swans among many others. Soft spikes required. Neat dress code. Pay for play course, no membership. Bookings essential. Packages available on website"
   },
+
   {
     "name": "Thirteenth Beach - Beach Courses",
     "location": "Barwon Heads, Victoria",
-    "greenFees": 135
+    "greenFees": 135,
+    "slopeRating": 138,
+    "description": "Set on the stunning Bellarine Peninsula in Victoria, Thirteenth Beach is a 36 hole golf and residential complex. The first of the two courses, The Beach Course was opened in December 2001, and The Creek Course in February 2004. Thirteenth Beach is unique in its two courses - The already famous Beach Course in the dunes has a strong and wonderful links character, whilst the second course has a feel of the very best of Melbourne's sand belt through its gently rolling terrain and broadly separated fairways."
   },
   {
     "name": "The Dunes",
     "location": "Rye, Victoria",
-    "greenFees": 105
+    "greenFees": 105,
+    "slopeRating": 125,
+    "description": "Set on 300 acres of gently rolling sand dunes, the 27 hole golf facility at The Dunes is one of Australia’s premier public access course. Located in the heart of the Mornington Peninsula “Cups” region, The Dunes maintains the highest standards of course maintenance and customer service, matched only by the very best private clubs. Designed by Tony Cashmore, the Dunes achieves the very difficult objective of being a challenge to the low marker without being a monster for the higher handicapped golfer. The tournament course is 6436 metres while 9 hole Cups course is a delightful par 33 and very popular with juniors and local residents. Accolades include being ranked among the Top 20 courses in Australia for the past 15 years. The Dunes also consistently ranks as Victoria’s #1 public access course and among the Top 3 public access courses Australia wide."
   },
   {
     "name": "Lonsdale Links",
     "location": "Point Lonsdale, Victoria",
-    "greenFees": 95
+    "greenFees": 95,
+    "slopeRating": 125,
+    "description": "Lonsdale Links is a public-access 18 hole links course located in the coastal dunes of Point Lonsdale and bordering the beautiful Lake Victoria. The recently redeveloped course is now open and available to play. The course has been completely transformed to take advantage of the sweeping vistas across both new and old holes. Using trailblazer Charles Blair Macdonald and his colleagues Seth Raynor and Charles Banks as inspiration, course architects Ogilvy, Cocking, Mead (OCM) have featured some template holes and designed our course as a deliberate throwback to an earlier age and a unique look for an Australian course. The new clubhouse is positioned with extensive views overlooking the Lake. Enjoy a drink, snack or meal in the Golfers Lounge after your round."
   },
   {
     "name": "Port Fairy Golf Links",
     "location": "Port Fairy, Victoria",
-    "greenFees": 69
+    "greenFees": 69,
+    "slopeRating": 124,
+    "description": "The course is less than five minutes from the centre of charming, historic Port Fairy, which lies 290 kms west of Melbourne along the Princes Highway in the Shipwreck Coast and Great Ocean Road Tourism regions. Golf at Port Fairy is typical of the great Scottish courses, such as St Andrews, Troon and Carnoustie. Golfers who have never had the experience of playing these courses should take the opportunity to visit the district for a unique experience. Wind is a factor when you play golf at Port Fairy, and the choice of club varies from day to day. For example a 111 metre par 3 can be played on one day with a wedge and on another with a 4 iron. Generally however tees and greens have a measure of wind protection to keep the game comfortable."
   },
   {
     "name": "Brookwater Golf & Country Club",
     "location": " Brookwater, Queensland",
-    "greenFees": 135
+    "greenFees": 135,
+    "slopeRating": 133,
+    "description": "Brookwater Golf & Country Club is a special golfing destination with a premium point of difference, a commitment to an exceptional golfing experience. Brookwater is a par 72, tournament standard course measuring 6,469 metres. The Par 5, 13th hole is the longest at 550 metres. Featuring long, narrow fairways and challenging bunker locations which golfers of all levels can enjoy. Complementing the naturally undulating terrain, each hole features distinctive Australian bushland landscapes including natural water features, spectacular rock formations and stands of ghost gums."
   }
 ]
